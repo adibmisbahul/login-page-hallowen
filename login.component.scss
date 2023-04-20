@@ -1,0 +1,108 @@
+.rct{
+    position: fixed;
+    top: -5px;
+    width: 800px;
+    height: 660px;
+    background: #562488;
+}
+
+.rct img{
+    position: fixed;
+    top: 100px;
+    left: -50px;
+    width: 700px;
+    height: 600px;
+}
+
+.rct h1{
+    color: white;
+    font-style: italic;
+    position: fixed;
+    font-weight: 500;
+    font-size: 35px;
+    top: 100px;
+    left: 220px;
+}
+
+.rct2{
+    position: fixed;
+    top: -1px;
+    left: 685px;
+    width: 800px;
+    height: 650px;
+    background: #ffffff;
+    border-radius: 35px 0px 0px 35px;
+}
+
+.rct2 input{
+    position: absolute;
+    top: 350px;
+    left: 130px;
+    width: 400px;
+    height: 50px;
+    border: solid rgb(211, 211, 211) 1px;
+    border-radius: 10px;
+    box-shadow: 0px 2px 0px 0px #8787875b;
+    font-size: 20px;
+}
+
+.rct2 button{
+    position: absolute;
+    top: 450px;
+    left: 250px;
+    width: 150px;
+    height: 50px;
+    border: none;
+    border-radius: 5px;
+    background: #562488;
+    color: white;
+    font-size: 15px;
+    font-weight:bolder;
+    font-style: italic;
+}
+
+
+.rct2 .pwd{
+  position: absolute;
+  font-weight: 650;  
+  font-size: 15px;
+  top: 400px;
+  left: 135px;
+}
+
+.pwd2 input{
+    position: fixed;
+    top: 250px;
+    left: 815px;
+    width: 400px;
+    height: 50px;
+    border: solid rgb(211, 211, 211) 1px;
+    border-radius: 10px;
+    box-shadow: 0px 2px 0px 0px #8787875b;
+    font-size: 20px;
+}
+
+.pwd2 img{
+    position: fixed;
+    left: 145px;
+    top: 365px;
+}
+
+
+.rct2 img{
+    position: absolute;
+    top: 365px;
+    left: 140px;
+}
+
+.rct2 .pwd2 .email{
+    position: absolute;
+    top: 270px;
+}
+
+.rct2 .user{
+    position: absolute;
+    width: auto;
+    top: 120px;
+    left: 280px;
+}
